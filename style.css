@@ -104,8 +104,11 @@
     text-decoration: none;
   }
   @media(max-width: 576) {
-    body {
+    .container {
       text-align: center;
+    }
+    img {
+      display: none;
     }
   }
   
